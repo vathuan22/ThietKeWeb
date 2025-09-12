@@ -24,7 +24,7 @@ A. Viết ở trong phần tử HTML, sử dụng thuộc tính *style*
 
 B. Viết ở ngoài tài liệu HTML, trong tập tin *.css*, sử dụng phần tử *link* để liên kết
 
-**C. Viết ở trong tài liệu HTML, sử dụng phần tử *<script>***
+**C. Viết ở trong tài liệu HTML, sử dụng phần tử <script>**
 
 D. Viết ở trong tài liệu HTML, sử dụng phần tử *<style>*
 
@@ -66,7 +66,7 @@ B. Dùng bộ mã reset CSS của Eric Meyer
 
 C. Dùng bộ mã định chuẩn CSS của Bootstraps
 
-D. Dùng lệnh Reset của CSS
+**D. Dùng lệnh Reset của CSS**
 
 Câu 7. In CSS, the term \_\_\_\_\_ is used when talking about design and layout. The CSS \_\_\_\_\_\_ is essentially a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content.
 
@@ -76,7 +76,7 @@ B. cascading
 
 C. box mode
 
-D. box model
+**D. box model**
 
 Câu 8. Trong CSS, đơn vị đo nào sau đây không phải là đơn vị đo tương đối (relative)?
 
@@ -86,5 +86,5 @@ B. rem
 
 C. %
 
-D. px
+**D. px**
 
