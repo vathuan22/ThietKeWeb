@@ -39,3 +39,4 @@
 [Lý thuyết-Lưu phông chữ trong website](Bai14_TKWeb/Lythuyet/lt3.html)
 #### Bài tập
 [Bài tập-Menu](Bai14_TKWeb/Lythuyet/BaiTap/menu.html)
+[Câu hỏi ôn tập](Bai14_TKWeb/index.md)
