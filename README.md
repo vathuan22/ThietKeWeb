@@ -32,3 +32,8 @@
 -[Bài tập](Bai11_BaiTap1B/cooking.html)
 #### Câu hỏi ôn tập 
 -[Câu hỏi ôn tập](CauHoiOntap/index.md)
+### Bài 14
+#### Code lý thuyết 
+[Lý thuyết-Phông chữ](Bai14_TKWeb/Lythuyet/phongchu.html)
+[Lý thuyết-Web fonts-Lấy phông chữ từ server dịch vụ](Bai14_TKWeb/Lythuyet/lt2.html)
+[Lý thuyết-Lưu phông chữ trong website](Bai14_TKWeb/Lythuyet/lt3.html)
