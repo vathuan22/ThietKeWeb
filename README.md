@@ -39,7 +39,7 @@
 
 - [Câu hỏi ôn tập](CauHoiOntap/index.md)
 
-14. Bài 14A-Phông chữ
+**14**. Bài 14A-Phông chữ
  
 
 - [Lý thuyết-Phông chữ](Bai14_TKWeb/Lythuyet/phongchu.html)
@@ -54,7 +54,7 @@
 
 - [Câu hỏi ôn tập](Bai14_TKWeb/index.md)<br>
 
-14. Bài 14B-Định dạng chữ
+**14**. Bài 14B-Định dạng chữ
  
 
 - [Lý-thuyết-Cỡ chữ(1)](Bai14B_TKWeb/LyThuyet/lt1.html)
