@@ -64,6 +64,6 @@
 - [Lý-thuyết-Cỡ chữ(3)](Bai14B_TKWeb/LyThuyet/lt3.html)
 
 - [Bài tập-2.2b](Bai14B_TKWeb/BaiTap/menu.html)
-- [Bài tập-2.2d](Bai14B_TKWeb/BaiTap/baitap2.2d.docx)
+- [Bài tập-2.2d](Bai14B_TKWeb/BaiTap/index.md)
 
 - [Câu hỏi ôn tập](Bai14B_TKWeb/BaiTap/index2.md)
