@@ -37,3 +37,5 @@
 [Lý thuyết-Phông chữ](Bai14_TKWeb/Lythuyet/phongchu.html)
 [Lý thuyết-Web fonts-Lấy phông chữ từ server dịch vụ](Bai14_TKWeb/Lythuyet/lt2.html)
 [Lý thuyết-Lưu phông chữ trong website](Bai14_TKWeb/Lythuyet/lt3.html)
+#### Bài tập
+[Bài tập-Menu](Bai14_TKWeb/Lythuyet/BaiTap/menu.html)
