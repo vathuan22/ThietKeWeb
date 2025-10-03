@@ -94,6 +94,13 @@
 
 **21**. JavaScript (1) - Làm quen với JavaScript
 
-- [Viết mã JavaScript trong tập tin riêng biệt](JS/index.html)
+- [Lý thuyết-Viết mã JavaScript trong tập tin riêng biệt](JS/index.html)
+
+- [Lý thuyết-Chạy mã JavaScript trên nền tảng Node.js (Back-end)](JS/node.md)
+
+- [Bài tập-Sử dụng từ khóa Javascript roadmap để tìm kiếm và xem các nội dung cần học về JavaScript.](JS/roadmap.md)
+
+- [Câu hỏi ôn tập](JS/cauhoi.md)
+
 
 
