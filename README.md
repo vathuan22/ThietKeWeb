@@ -90,3 +90,10 @@
 - [Lý thuyết-Làm mờ một phần tử](Bai16_TKWeb/index4.html)
 
 
+### JavaScript
+
+**21**. JavaScript (1) - Làm quen với JavaScript
+
+- [Viết mã JavaScript trong tập tin riêng biệt](JS/index.html)
+
+
