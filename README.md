@@ -70,6 +70,7 @@
 - [Câu hỏi ôn tập](Bai14B_TKWeb/BaiTap/index2.md)
 
 **15**. Bài 15-Bộ chọn
+
 - [Lý thuyết-Bộ chọn trạng thái](Bai15_TKWeb/index.html)
 
 - [Lý thuyết-Bộ chọn tổ hợp(Theo hậu duệ)](Bai15_TKWeb/index2.html)
@@ -77,3 +78,15 @@
 - [Bài tập](Bai15_TKWeb/menu.html)
 
 - [Câu hỏi ôn tập](Bai15_TKWeb/cauhoi.md)
+
+**16**. Bài 16-Định dạng màu
+
+- [Lý thuyết-Màu chữ](Bai16_TKWeb/index.html)
+
+- [Lý thuyết-Màu nền](Bai16_TKWeb/index2.html)
+
+- [Lý thuyết-Giới hạn vùng nền](Bai16_TKWeb/index3.html)
+
+- [Lý thuyết-Làm mờ một phần tử](Bai16_TKWeb/index4.html)
+
+
