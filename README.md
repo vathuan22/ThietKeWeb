@@ -89,7 +89,15 @@
 
 - [Lý thuyết-Làm mờ một phần tử](Bai16_TKWeb/index4.html)
 
+**17**. Bài 17-Bộ chọn theo trạng thái & thuộc tính
 
+- [Lý thuyết-Bộ chọn lớp giả (pseudo-class)](Bai17_TKWeb/pseudoclass.html)
+
+- [Lý thuyết-Bộ chọn phần tử giả (pseudo-element)](Bai17_TKWeb/pseudoelement.html)
+
+- [Bài tập](Bai17_TKWeb/menu/index.html)
+
+- [Câu hỏi ôn tập](Bai17_TKWeb/index.md)
 ### JavaScript
 
 **21**. JavaScript (1) - Làm quen với JavaScript
