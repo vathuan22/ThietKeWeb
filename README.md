@@ -118,6 +118,10 @@
 
 - [Lý thuyết và Bài tập](JS/Bai23/index.md)
 
+**24**. Kiểu dữ liệu number
+
+- [Bài tập](JS/Bai24/calculator.html)
+
 
 
 
