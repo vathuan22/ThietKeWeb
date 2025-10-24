@@ -110,5 +110,10 @@
 
 - [Câu hỏi ôn tập](JS/cauhoi.md)
 
+**22-23**. [Cú pháp, kiểu dữ liệu và biến-Phạm vi, kiểu string, xuất chuỗi](JS/Bai23/index.md)
+
+
+
+
 
 
