@@ -101,17 +101,17 @@
 
 **18**. Bài 18 - Ảnh nền (1)
 
-- [Lý thuyết - Chèn và thao tác với ảnh nền(1)](JS/Bai18_TKWeb(1)/index.html)
+- [Lý thuyết - Chèn và thao tác với ảnh nền(1)](Bai18_TKWeb(1)/index.html)
 
-- [Lý thuyết - Chèn và thao tác với ảnh nền(2)](JS/Bai18_TKWeb(1)/index2.html)
+- [Lý thuyết - Chèn và thao tác với ảnh nền(2)](Bai18_TKWeb(1)/index2.html)
 
-- [Lý thuyết - Xác định vị trí đặt ảnh gốc]
+- [Lý thuyết - Xác định vị trí đặt ảnh gốc](Bai18_TKWeb(1)/index3.html)
 
-- [Lý thuyết - Thuộc tính background-size]
+- [Lý thuyết - Thuộc tính background-size](Bai18_TKWeb(1)/index4.html)
 
-- [Lý thuyết - Thuộc tính background]
+- [Lý thuyết - Thuộc tính background](Bai18_TKWeb(1)/index5.html)
 
-- [Lý thuyết - Chèn nhiều ảnh nền]
+- [Lý thuyết - Chèn nhiều ảnh nền](Bai18_TKWeb(1)/index6.html)
 
 **18**. Bài 18 - Ảnh nền (2)
 
