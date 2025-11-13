@@ -114,9 +114,52 @@
 - [Lý thuyết - Chèn nhiều ảnh nền](Bai18_TKWeb(1)/index6.html)
 
 **18**. Bài 18 - Ảnh nền (2)
+
 - [Lý thuyết ]
 
 - [Bài tập](Bai18_TKWeb(2)/web.html)
+
+- [Câu hỏi ôn tập](Bai18_TKWeb(2)/index.md)
+
+**19**. Bài 19 - Mô hình cái hộp(1)
+
+- [Lý thuyết - Định nghĩa](Bai19TKWeb/index.html)
+
+- [Lý thuyết - Thiết lập kích thước kiểu content-box](Bai19TKWeb/index2.html)
+
+- [Lý thuyết - Thiết lập kích thước kiểu border-box](Bai19TKWeb/index3.html)
+
+- [Lý thuyết - Vùng đệm trong](Bai19TKWeb/index4.html)
+
+- [Lý thuyết - Thuộc tính padding](Bai19TKWeb/index5.html)
+
+- [Lý thuyết - Các kiểu đường viền(1)](Bai19TKWeb/index6.html)
+
+- [Lý thuyết - Các kiểu đường viền(2)](Bai19TKWeb/index7.html)
+
+- [Lý thuyết - Độ dày của đường viền(1)](Bai19TKWeb/index8.html)
+
+- [Lý thuyết - Độ dày của đường viền(2)](Bai19TKWeb/index9.html)
+
+- [Lý thuyết - Màu của đường viền](Bai19TKWeb/index10.html)
+
+- [Lý thuyết - Kết hợp kiểu, độ dày và màu](Bai19TKWeb/index11.html)
+
+- [Lý thuyết - Tạo góc bo elipse(1)](Bai19TKWeb/index13.html)
+
+- [Lý thuyết - Tạo góc bo elipse(2)](Bai19TKWeb/index14.html)
+
+- [Lý thuyết - Tạo đường viền bằng hình ảnh](Bai19TKWeb/index15.html)
+
+- [Lý thuyết - Vùng đệm ngoài](Bai19TKWeb/index16.html)
+
+**20**. Bài 20 - Mô hình cái hộp (2)
+
+- [Lý thuyết - Thuộc tính Display](Bai20_TKWeb/index.html)
+
+- [Lý thuyết - Tạo bóng cho hộp](Bai20_TKWeb/index2.html)
+
+- [Bài tập](Bai20_TKWeb/bakery.html)
 
 ### JavaScript
 
