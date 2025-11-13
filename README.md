@@ -114,8 +114,10 @@
 - [Lý thuyết - Chèn nhiều ảnh nền](Bai18_TKWeb(1)/index6.html)
 
 **18**. Bài 18 - Ảnh nền (2)
-
 - [Lý thuyết ]
+
+- [Bài tập](Bai18_TKWeb(2)/web.html)
+
 ### JavaScript
 
 **21**. JavaScript (1) - Làm quen với JavaScript
