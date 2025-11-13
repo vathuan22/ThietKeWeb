@@ -113,9 +113,6 @@
 
 - [Lý thuyết - Chèn nhiều ảnh nền](Bai18_TKWeb(1)/index6.html)
 
-**18**. Bài 18 - Ảnh nền (2)
-
-
 - [Lý thuyết - Nền chuyển sắc tuyến tính (1)](Bai18_TKWeb(2)/index.html)
 
 - [Lý thuyết - Nền chuyển sắc tuyến tính (2)](Bai18_TKWeb(2)/index2.html)
@@ -172,7 +169,7 @@
 
 - [Bài tập](Bai20_TKWeb/bakery.html)
 
->>>>>>> 34acfa45a64e6ea0c1d8959f24e87ab9080bf5fb
+
 ### JavaScript
 
 **21**. JavaScript (1) - Làm quen với JavaScript
