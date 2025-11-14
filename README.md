@@ -194,6 +194,7 @@
 
 - [Bài tập](JS/Bai24/calculator.html)
 
+- [Câu hỏi ôn tập](JS/Bai24/index.md)
 
 
 
