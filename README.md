@@ -89,6 +89,10 @@
 
 - [Lý thuyết-Làm mờ một phần tử](Bai16_TKWeb/index4.html)
 
+- [Bài tập](Bai16_TKWeb/index5.html)
+
+- [Câu hỏi ôn tập](Bai16_TKWeb/index.md)
+
 **17**. Bài 17-Bộ chọn theo trạng thái & thuộc tính
 
 - [Lý thuyết-Bộ chọn lớp giả (pseudo-class)](Bai17_TKWeb/pseudoclass.html)
